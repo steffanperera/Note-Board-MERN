@@ -4,7 +4,7 @@ const app = express();
 
 // set basic api route
 app.get("/api/notes", (req, res) => {
-  res.send("you got 5 messages");
+  res.send("test: /api/notes");
 });
 
 // set up express to listen on port 5001
