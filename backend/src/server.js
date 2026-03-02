@@ -10,3 +10,5 @@ app.use("/api/notes", notesRoutes);
 app.listen(5002, () => {
   console.log("Server PORT: 5002");
 });
+
+// mongodb+srv://steffanperera:a97Ui6Kg2hYAlhWe@cluster0.tqnw87a.mongodb.net/?appName=Cluster0
