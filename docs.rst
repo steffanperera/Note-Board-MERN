@@ -1,4 +1,4 @@
-# Day 1 - Setup:
+# 1 - Setup:
 
 Install:
     - Node.js (LTS)
@@ -8,7 +8,7 @@ Install:
 
 File Structure:
     - app-root/
-        - server/
+        - backend/
         - client/
 
 Win Condition:
